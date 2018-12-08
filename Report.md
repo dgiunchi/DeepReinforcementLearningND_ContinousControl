@@ -1,4 +1,4 @@
-[![chart DDPG](https://github.com/dgiunchi/DeepReinforcementLearningND_ContinousControl/blob/master/Chart_DDPG)](#training)
+[![chart DDPG](https://github.com/dgiunchi/DeepReinforcementLearningND_ContinousControl/blob/master/ChartDDPG)](#training)
 
 Chart of the loss function for agent using DDPG with Vector Observation space size (per agent) 33
 The algorithm was DDPG, with actor and critic models. The actor networks (local and target) contains two fully connected layers with relu and final
